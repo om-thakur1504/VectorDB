@@ -1,4 +1,4 @@
-# VectorDB — Build a Vector Database from Scratch in C++
+# VectorDB — Built a Vector Database from Scratch in C++
 
 A fully working **Vector Database** built from scratch in C++ with a web UI.  
 Implements **HNSW**, **KD-Tree**, and **Brute Force** search algorithms side-by-side, plus a **RAG pipeline** powered by a local LLM via Ollama.
@@ -48,7 +48,7 @@ Answer
 
 ## Prerequisites
 
-You need **3 things** installed on your Windows laptop:
+needs **3 things** installed on a Windows laptop:
 
 1. **MSYS2** (gives you g++ compiler)
 2. **Git**
@@ -343,4 +343,4 @@ Recompile and restart.
 
 ## License
 
-MIT — use this however you want.
+MIT
